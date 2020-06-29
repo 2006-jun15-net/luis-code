@@ -1,0 +1,7 @@
+<Project Sdk="Microsoft.NET.Sdk" >
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+
+    <TargeTFramework>netcoreapp3.1</TargeTFramework>
+  </PropertyGroup>
+</Project>
